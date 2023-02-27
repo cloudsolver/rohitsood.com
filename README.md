@@ -18,3 +18,4 @@ The cloud resume challenge is a bit out of order for the workflow for someone wh
 
 I decided to build a simply HTML, CSS, JS static site using [Bootstrap 5](https://getbootstrap.com/docs/5.3/examples/). Installed `nvm` and `node 18` to globally install `http-server` for local testing.
 
+In order to use github from the command line on my PopOS - SSH keys need to be created. Here is the [documentation](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) I followed.

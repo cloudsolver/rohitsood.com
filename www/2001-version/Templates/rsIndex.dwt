@@ -1,0 +1,108 @@
+
+<HTML><HEAD>
+
+<!-- #BeginEditable "doctitle" -->
+<TITLE></TITLE>
+<!-- #EndEditable --> 
+<link rel="stylesheet" href="../css/hover.css">
+<BODY bgColor=#ffcc00 link="#FFFFFF" text="#000000" vlink="#6666FF" alink="#0000FF">
+<table width="760" border="0" cellspacing="0" cellpadding="0" height="80" bordercolor="#FFFFFF">
+  <tr> 
+    <td height="1"></td>
+    <td height="82" rowspan="3"><img src="../images/connect1.jpg" width="80" height="82"></td>
+    <td height="1" bgcolor="#000000"></td>
+    <td height="5" rowspan="3" width="1" bgcolor="#000000"></td>
+  </tr>
+  <tr> 
+    <td>
+<!-- START MOVIE-->
+<object	classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+		codebase="http://active.macromedia.com/flash4/cabs/swflash.cab#version=4,0,0,0"
+		id="RohitSood_Main" 
+		width="230" 
+		height="80">
+
+  <param name="movie" value="movies/RohitSood_Main.swf">
+  <param name="quality" value="high">
+  <param name="base" value="movies/RohitSood_Main.swf">
+  <param name="bgcolor" value="#FFCC00">
+  <embed name="RohitSood_Main" 
+		src="movies/RohitSood_Main.swf" 
+		quality="high" 
+		base="movies/RohitSood_Main.swf" 
+		bgcolor="#FFCC00"
+		width="230" 
+		height="80"
+		type="application/x-shockwave-flash"
+		pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+  </embed>
+</object>
+<!-- END MOVIE-->
+   </td>
+    <td width="449" height="80"><!-- #BeginEditable "Section" -->{Section}<!-- #EndEditable --></td>
+  </tr>
+  <tr> 
+    <td height="1" bgcolor="#000000" width="230"></td>
+    <td height="1"></td>
+  </tr>
+</table>
+
+
+
+
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td rowspan="4" width="1" bgcolor="#000000"></td>
+    <td width="20"></td>
+    <td><!-- #BeginEditable "Path info" -->{Path info}<!-- #EndEditable --></td>
+    <td rowspan="4" width="1" bgcolor="#000000"></td>
+  </tr>
+  <tr> 
+    <td width="20"></td>
+    <td align=right> <!-- #BeginEditable "main content table" -->
+      <table width="738" border="0" cellspacing="0" cellpadding="0">
+        <tr bgcolor="#FFFFFF"> 
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr bgcolor="#FFFFFF"> 
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr bgcolor="#FFFFFF"> 
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr bgcolor="#FFFFFF"> 
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+      </table>
+      <!-- #EndEditable --></td>
+  </tr>
+  <tr> 
+    <td width="20"></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td width="20" bgcolor="#000000"></td>
+    <td bgcolor="#000000"> 
+      <div align="center"><font face="Tahoma, Comic Sans MS, Courier, Book Antiqua" size="1" color="#ffcc00">[<a href="../index.html">Home</a>] 
+        [<a href="../articles/index.html">Articles</a>] [<a href="../webcontent/index.html">Web 
+        Content</a>] [<a href="../amazingfacts/index.html">Amazing Facts</a> ] 
+        [<a href="../quotes/index.html">Quotes</a>] [<a href="../people/index.html">People</a>] 
+        [<a href="../photos/index.html">Pictures</a>] [<a href="../tennis/index.html">Tennis</a>] 
+        [<a href="../computing/index.html">Computing</a>] [<a href="../links/index.html">Links</a>] 
+        [<a href="../messageboard/index.html">Message Board</a>] [<a href="../cv/index.html">Resume</a>]</font></div>
+    </td>
+  </tr>
+</table>
+</BODY></HTML>

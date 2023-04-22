@@ -1,5 +1,9 @@
 #!/bin/bash
-echo "Pushing contents of ../www to the AWS Cloud on s3://rohitsood.com"
-aws s3 sync ../www s3://rohitsood.com 
-echo "Task finished"
+BUCKET_NAME="rohitsood.com"
+echo "Pushing contents of ../www to the AWS Cloud on s3://${BUCKET_NAME}"
+aws s3 sync ../www "s3://${BUCKET_NAME}" \
+    --exclude ".*" \
+    --exclude "*.sh"
 
+echo "Task finished"
+aws s3 ls "${BUCKET_NAME}"
